@@ -39,6 +39,7 @@ Wide firmware RE database and automatized identification http://firmware.re/
 
 Firmware download and changelog on manufacturer website https://www.tascam.eu/en/downloads/current/DP-24SD
 
+Firmware architecture identification tool https://github.com/airbus-seclab/cpu_rec
 
 ## Plan
 
